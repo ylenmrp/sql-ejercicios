@@ -1,0 +1,1 @@
+SELECT DISTINCT nombre, fecha_nacimiento FROM actores ORDER BY fecha_nacimiento DESC

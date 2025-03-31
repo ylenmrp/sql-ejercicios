@@ -1,0 +1,1 @@
+SELECT titulo FROM series WHERE titulo LIKE '%the%'

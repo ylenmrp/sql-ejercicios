@@ -1,0 +1,1 @@
+select titulo, temporada from Episodios

@@ -1,0 +1,1 @@
+SELECT nombre FROM actores LIMIT 5

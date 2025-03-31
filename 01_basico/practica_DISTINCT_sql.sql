@@ -1,0 +1,1 @@
+SELECT distinct año_lanzamiento FROM series
