@@ -1,6 +1,6 @@
  Ejercicios de SQL  
 
-Este repositorio contiene ejercicios prácticos de SQL organizados por categorías.  
+Este repositorio contiene ejercicios prácticos de SQL organizados por categorías.  Realizado en el curso de  [UDEMY https://www.udemy.com/course/sql-total/?couponCode=24T1MT310325G1]
 
 ## 📂 Estructura del Repositorio  
 - `01_basico/` → Conceptos básicos  
