@@ -19,8 +19,3 @@ Este repositorio contiene ejercicios prácticos de SQL organizados por categorí
 
 3. Ejecuta las consultas y experimenta con ellas.
 
-
-## 📫 Contáctame  
-Si tienes preguntas o sugerencias, puedes contactarme en:  
-
-💼 LinkedIn: [https://www.linkedin.com/in/ylen-ramirez/]
