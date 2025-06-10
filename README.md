@@ -8,6 +8,7 @@ Este repositorio contiene ejercicios prácticos de SQL organizados por categorí
 - `03_subconsultas/` → Subconsultas  
 - `04_procedimientos/` → Procedimientos almacenados  
 - `05_scripts/` → Scripts completos  
+- `06_proyectos/` → Proyectos de cada día
 
 ## 🚀 Cómo usar  
 1. Clona este repositorio:  
